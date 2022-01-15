@@ -24,3 +24,8 @@ Future markets are developing through communication and technological innovation
 4. Training and Updating Courses
 
 > Creation and development of refresher courses, with customized training paths for public bodies or private companies, in the archives and libraries field.
+
+5. European Projects
+
+> Coordination of European projects and management of relations with the European Commission and Partner Countries.
+> 
