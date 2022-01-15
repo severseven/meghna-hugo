@@ -11,4 +11,4 @@ social:
     link : "#"
 ---
 
-ClientSide una società composta da professionisti altamente qualificati operante nel campo della tutela, della conservazione e della valorizzazione del patrimonio culturale.
+ClientSide is a company made up of highly qualified professionals operating in the field of protection, conservation and enhancement of cultural heritage.
