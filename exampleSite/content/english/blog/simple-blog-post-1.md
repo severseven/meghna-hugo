@@ -1,10 +1,10 @@
 ---
 title: "Cultural Heritage"
-date: 2018-09-12T12:52:36+06:00
+date: 2022-01-01T12:52:36+06:00
 image_webp: images/blog/blog-post-3.webp
 image: images/blog/blog-post-3.jpg
 author: ClientSide
-description : "This is meta description"
+description : "Cultural Heritage"
 ---
 
 ClientSide specializes in the processing and conditioning of documentary assets of various kinds, including: Valuable paper material, ancient and modern books, maps, geographical maps, parchments, archives, photographic material, microfilms.
