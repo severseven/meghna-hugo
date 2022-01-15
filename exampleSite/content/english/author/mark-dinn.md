@@ -1,7 +1,7 @@
 ---
-title: "Mark Dinn"
+title: "ClientSide"
 image: ""
-email: "email2@example.org"
+email: "info@clientside.it"
 social:
   - icon : "ti-facebook" # themify icon pack : https://themify.me/themify-icons
     link : "#"
@@ -11,5 +11,4 @@ social:
     link : "#"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet.
-Donec nisi dolor, consequat vel pretium id, auctor in dui. Nam iaculis, neque ac ullamcorper.
+ClientSide è una società composta da professionisti altamente qualificati operante nel campo della tutela, della conservazione e della valorizzazione del patrimonio culturale.
