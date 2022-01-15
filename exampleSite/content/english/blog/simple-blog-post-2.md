@@ -1,18 +1,32 @@
 ---
-title: "Simple Blog Post"
-date: 2018-09-12T12:52:36+06:00
+title: "Information Technology"
+date: 2022-01-02T12:52:36+06:00
 image_webp: images/blog/blog-post-2.webp
 image: images/blog/blog-post-2.jpg
-author: John Doe
-description : "This is meta description"
+author:
+description : "Information Technology"
 ---
 
-Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae. Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
+ClientSide designs, employs and develops innovative IT tools with a high technological content, using a constantly evolving system infrastructure and IT architectures based on specific needs.
 
-Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
+1. Software Development
+ 
+> Design and development of custom software working closely with the customer in order to satisfy any particular need directly and immediately.
+> 
+> Creation and implementation of applications mainly oriented to the web in response to the latest market trends.
+> 
+> Creation of websites and web portals.
+> 
+> Innovative IT tools with a high technological content.
 
-> Design is not just what it looks like and feels like. Design is how it works.
+2. Software Management
+ 
+> We offer proprietary or self-developed software management services. As a demonstration of proven experience, we operate in various local and national bodies, managing the applications specifically issued by the institutions, such as GE.CO.2, for the management of movable assets, and SICOGE, a System for the integrated management of economic and financial accounting.
 
-Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
+3. Security
 
-Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
+> Evaluation of possible threats, penetration testing and related protection of sensitive data, backup and security of software and hardware devices.
+
+4. Help Desk
+
+> Specialized technical assistance packages, hardware and software, network server management and maintenance, workstations.
