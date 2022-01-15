@@ -7,7 +7,7 @@ author:
 description : "Information Technology"
 ---
 
-ClientSide designs, employs and develops innovative IT tools with a high technological content, using a constantly evolving system infrastructure and IT architectures based on specific needs.
+ClientSide designs, employs and develops innovative IT tools with a high technological content, using a constantly evolving system infrastructure and IT architectures based on specific needs. We offer proprietary or self-developed software management services.
 
 1. Software Development
  
@@ -21,7 +21,7 @@ ClientSide designs, employs and develops innovative IT tools with a high technol
 
 2. Software Management
  
-> We offer proprietary or self-developed software management services. As a demonstration of proven experience, we operate in various local and national bodies, managing the applications specifically issued by the institutions, such as GE.CO.2, for the management of movable assets, and SICOGE, a System for the integrated management of economic and financial accounting.
+> As a demonstration of proven experience, we operate in various local and national bodies, managing the applications specifically issued by the institutions, such as GE.CO.2, for the management of movable assets, and SICOGE, a System for the integrated management of economic and financial accounting.
 
 3. Security
 
