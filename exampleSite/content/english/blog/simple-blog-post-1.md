@@ -45,7 +45,9 @@ The working methodology, specific for each type of material, provides for a time
 
 > Given the complexity and heterogeneity of the different items, each type of them requires appropriate conservation conditions: for this reason, a complete knowledge of it through targeted techniques is needed.
 > 
-> An investigation about the state of the material and its conservation needs is therefore fundamental, as well as the identification of any emergencies and the thermohygrometric monitoring of the rooms intended for conservation - carried out by special tools aimed at collecting data in order to outline future behavior in relation to the external climatic excursion. Where necessary, provision is made for the preparation and use of containers suitable for preserving each type of asset.
+> An investigation about the state of the material and its conservation needs is therefore fundamental, as well as the identification of any emergencies-
+> 
+> A thermohygrometric monitoring of the rooms intended for conservation is carried out by special tools aimed at collecting data in order to outline future behavior in relation to the external climatic excursion. Where necessary, provision is made for the preparation and use of containers suitable for preserving each type of asset.
 information about the archive's history.
 
 5. Location and Inventariation
@@ -71,22 +73,22 @@ information about the archive's history.
 > To this end, the use of cutting-edge technological and technical instruments is envisaged, with particular attention paid to the indexing of the related data.
 > 
 > Also of note is the development of metadata, an indispensable tool for making access to the material clear and immediate.
-
-Broadly speaking, the sequential stages of the process include:
-
-    Preparation for digitization.
-    
-    Treatment of originals.
-    
-    Digitization process.
-    
-    Writing and conservation of the digital master.
-    
-    Creation of metadata.
-    
-    Creation of formats for online publication, according to a predefined strategy of public access through custom software.
-    
-    Possible creation of a web-portal for online publication.
+> 
+> The sequential stages of the process include:
+> 
+> Preparation for digitization.
+> 
+> Treatment of originals.
+> 
+> Digitization process.
+> 
+> Writing and conservation of the digital master.
+> 
+> Creation of metadata.
+> 
+> Creation of formats for online publication, according to a predefined strategy of public access through custom software.
+> 
+> Possible creation of a web-portal for online publication.
     
 8. Restoration
  
