@@ -7,7 +7,9 @@ author:
 description : "Cultural Heritage"
 ---
 
-ClientSide specializes in the processing and conditioning of documentary assets of various kinds, including: Valuable paper material, ancient and modern books, maps, geographical maps, parchments, archives, photographic material, microfilms.
+Digital technology has changed our way of writing and of reading, therefore of thinking. The paper document remains nevertheless the main source of information about our past. The digitization of historical paper sources is essential for the elaboration of new visions of the world, just as the preservation of memories, on paper or celluloid, is the most effective viaticum on our journey into the future.
+
+> ClientSide specializes in the processing and conditioning of documentary assets of various kinds: valuable paper material, ancient and modern books, maps, geographical maps, parchments, archives, photographic material, microfilms.
 
 The working methodology, specific for each type of material, provides for a timely and effective implementation of all or some of the following phases depending on the needs expressed.
 
