@@ -1,10 +1,10 @@
 ---
-title: "Digital Sustenibility"
+title: "Digital Sustainibility"
 date: 2022-01-01T12:52:36+06:00
 image_webp: images/blog/blog-post-4.webp
 image: images/blog/blog-post-4.jpg
 author:
-description : "Digital Sustenibility"
+description : "Digital Sustainibility"
 ---
 
 Knowing and learning to use new tools and ways of working can help achieve the goal of a substantial reduction in environmental impact. cidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
