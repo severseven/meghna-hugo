@@ -1,13 +1,13 @@
 ---
-title: "Communication and Education"
+title: "Training and Updating"
 date: 2022-01-01T12:52:36+06:00
 image_webp: images/blog/blog-post-1.webp
 image: images/blog/blog-post-1.jpg
 author:
-description : "Communication and Education"
+description : "Traniing and Updating"
 ---
 
-Future markets are developing through communication and technological innovation. The Internet has become a space for meeting, interaction and global work. We have always invested considerable resources in the crucial ever-expanding sector of communication and education.
+Future markets are developing through communication and technological innovation. The Internet has become a space for meeting, interaction and global work. We have always invested considerable resources in the crucial ever-expanding sector of Education, Traniing and Updating.
 
 1. Organization of Events, Exhibitions Activities, Conferences.
 
