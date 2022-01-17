@@ -29,5 +29,6 @@ End-to-end technology for the most complete sharing of an event, from planning t
 ◉ Meeting
 ◉ Events
 ◉ Marketing
-◉ Documentary Films and Video Clips
+◉ Documentary Films
+◉ Video Clips
 ◉ Broadcasting
