@@ -1,18 +1,22 @@
 ---
-title: "Simple Blog Post"
+title: "Our Service Portfolio"
 date: 2018-09-12T12:52:36+06:00
-image_webp: images/blog/blog-post-3.webp
-image: images/blog/blog-post-3.jpg
-author: John Doe
-description : "This is meta description"
+image_webp: images/blog/blog-post-7.webp
+image: images/blog/blog-post-7.jpg
+author:
+description : "Our Service Portfolio"
 ---
 
-Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae. Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
+Every modern business requires an IT practice that supports continuous and sustainable innovation. In order to quickly adapt to rapidly changing times and align with business priorities, you need to turn to a service company with an optimized, agile and diverse IT portfolio which addresses market opportunities ahead of time.
 
-Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
-
-> Design is not just what it looks like and feels like. Design is how it works.
-
-Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
-
-Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
+> We analyze and evaluate the state of conservation of the archival and book heritage for preventive interventions and planning of restoration methods.
+> 
+> We catalog and index in computerized databases ancient and modern books, manuscripts, paper and photographic material, archival and multimedia documents, in compliance with national and international standards.
+> 
+> We use state-of-the-art tools to safeguard the integrity and quality of original multimedia documents, in compliance with national and international standards.
+> 
+> We offer technical consultancy, organizational and logistical support for the success of any type of cultural or corporate event, providing for the installation of audio-video recording and entertainment devices, commensurating them to the peculiarity of the location.
+> 
+> We organize didactic, theoretical and practical workshops of various levels and depths, dedicated to the history of the book and to the various materials and techniques of realization.
+> 
+> We digitize documentary material, papers, prints, books of any kind and size, using the most advanced context-specific techniques.
