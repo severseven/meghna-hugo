@@ -1,10 +1,10 @@
 ---
-title: "Our Service Portfolio"
+title: "Service Portfolio"
 date: 2018-09-12T12:52:36+06:00
 image_webp: images/blog/blog-post-7.webp
 image: images/blog/blog-post-7.jpg
 author:
-description : "Our Service Portfolio"
+description : "Service Portfolio"
 ---
 
 Every modern business requires an IT practice that supports continuous and sustainable innovation. In order to quickly adapt to rapidly changing times and align with business priorities, you need to turn to a service company with an optimized, agile and diverse IT portfolio which addresses market opportunities ahead of time.
