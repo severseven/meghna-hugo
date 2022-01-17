@@ -25,9 +25,9 @@ End-to-end technology for the most complete sharing of an event, from planning t
 
 > We carry out high resolution video recordings and live streaming broadcasts
 
-Conferences
-Meeting
-Events
-Marketing
-Documentary Films and Video Clips
-Broadcasting
+◉ Conferences
+◉ Meeting
+◉ Events
+◉ Marketing
+◉ Documentary Films and Video Clips
+◉ Broadcasting
