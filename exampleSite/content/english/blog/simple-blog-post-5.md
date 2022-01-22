@@ -7,7 +7,7 @@ author:
 description : "Event Management"
 ---
 
-End-to-end technology for event sharing: planning; promotion, execution. Customized software for recording and streaming audio-video content for cultural events.
+End-to-end technology for event sharing: planning, promotion, execution. Customized software for recording and streaming audio-video content for cultural events.
 
 > High definition recording, live streaming broadcasts, monitoring, applications, dashboards and reports.
 >
