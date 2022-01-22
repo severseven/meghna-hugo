@@ -7,19 +7,15 @@ author:
 description : "Event Management"
 ---
 
-End-to-end technology for the most complete sharing of an event: planning; promotion, execution. Integrated solutions and customized software for recording and streaming audio-video content for exhibitions, shows, events and conferences.
+End-to-end technology for the most complete sharing of an event: planning; promotion, execution. Integrated solutions and customized software for recording and streaming audio-video content for cultural events.
 
->  High definition recording, monitoring, applications, dashboards and reports for the management of online virtual events.
+> High definition recording, live streaming broadcasts, monitoring, applications, dashboards and reports.
 >
 > Involvement of participants and sponsors through abstracts, mobile networking apps, discussion in-depth forums and engagement platforms.
 >
-> We have always invested considerable resources in this crucial and ever-expanding sector.
+> Planning of all organizational phases.
 >
-> We plan all organizational phases.
->
-> We prepare and set up the rooms according to the client's needs.
->
-> We carry out high resolution video recordings and live streaming broadcasts.
+> Setting of the rooms in the accordance with the customer's needs.
 
 ◉ Conferences
 ◉ Meeting
