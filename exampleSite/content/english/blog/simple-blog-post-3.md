@@ -7,7 +7,7 @@ author:
 description : "Traniing and Updating"
 ---
 
-Future markets are developing through communication and technological innovation. The Internet has become a space for meeting, interaction and global work. We have always invested considerable resources in the crucial ever-expanding sector of Education, Traniing and Updating.
+Future markets are developing through communication and technological innovation. The Internet is a space for meeting, interaction, global work. We invest resources in the crucial ever-expanding sector of Education, Traniing and Updating.
 
 1. Organization of Events, Exhibitions Activities, Conferences.
 
