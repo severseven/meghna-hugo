@@ -13,4 +13,4 @@ In the era of computerization, it is vital that companies rely on a team of prof
 > 
 > Analysis, control, testing and renovation of existing operating environments.
 > 
-> Planning, design and implementationof new infrastructures of different size and complexity.
+> Planning, design and implementation of new infrastructures different for size and complexity.
