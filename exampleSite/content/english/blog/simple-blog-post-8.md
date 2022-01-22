@@ -1,8 +1,8 @@
 ---
 title: "Customer Service Desk"
 date: 2018-09-12T14:51:12+06:00
-image_webp: images/blog/blog-post-2.webp
-image: images/blog/blog-post-2.jpg
+image_webp: images/blog/blog-post-8.webp
+image: images/blog/blog-post-8.jpg
 author:
 description : "Customer Service Desk"
 ---
