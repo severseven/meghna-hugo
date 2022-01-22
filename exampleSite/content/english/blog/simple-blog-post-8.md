@@ -11,12 +11,12 @@ By adopting an integrated and automated ticket system, we offer real-time soluti
 
 > Easy viewing and assessment of the context of the incidents.
 > 
-> Monitoring of response times and classification of support tickets' priority.
+> Monitoring of response times and classification of support ticket priority levels.
 > 
-> Escalation and automated tracking of results.
+> Escalation and automated tracking of outcomes.
 > 
-> Reports of the status and classification of the ticket based on the type and severity of events.
+> Reports of the status and classification of the ticket based on type and severity of events.
 > 
-> Service Desk Knowledge-Base in order to facilitate proven solutions and gain awareness of the support team's performance.
+> Service Desk Knowledge-Base to facilitate proven solutions and gain awareness of the support team's performance.
 > 
-> Communications via email, voice or face-to-face calls with the end user for the acquisition of information or the initiation of a collaborative interaction.
+> Communications via email, voice or face-to-face calls with users for information or collaborative interaction.
