@@ -7,7 +7,7 @@ author:
 description : "Digital Sustainibility"
 ---
 
-Knowing and learning to use new tools and ways of working can help achieve the goal of a substantial reduction in environmental impact. cidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
+Knowing and learning to use new tools and ways of working can help achieve the goal of a substantial reduction in environmental impact.
 
 > The development of wireless networks, as well as the evolution of remote collaboration and control tools, combined in the near future with the implementation of virtual reality, will constitute the main aid in reducing the carbon footprint of any company.
 > 
