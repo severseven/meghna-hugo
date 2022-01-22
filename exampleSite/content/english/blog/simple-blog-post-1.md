@@ -7,7 +7,7 @@ author:
 description : "Cultural Heritage"
 ---
 
-Digital technology has changed our way of writing and of reading, therefore of thinking. The paper document remains nevertheless the main source of information about our past. The digitization of historical paper sources is essential for the elaboration of new visions of the world, just as the preservation of memories, on paper or celluloid, is the most effective viaticum on our journey into the future.
+Digital technology has changed our way of writing and of reading, therefore of thinking. Paper documents remain nevertheless the main source of information about the past. The digitization of historical sources is essential for the elaboration of new visions of the world, just as for the preservation of memories.
 
 > ClientSide specializes in the processing and conditioning of documentary assets of various kinds: valuable paper material, ancient and modern books, maps, geographical maps, parchments, archives, photographic material, microfilms.
 
