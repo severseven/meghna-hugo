@@ -7,7 +7,7 @@ author:
 description : "Information Technology"
 ---
 
-ClientSide designs, employs and develops innovative IT tools with a high technological content, using a constantly evolving system infrastructure and IT architectures based on specific needs. We offer proprietary or self-developed software management services.
+We design, employ and develop innovative IT tools with high-tech content. We offer proprietary or self-developed software management services by using a constantly evolving system infrastructure and IT architectures based on specific needs.
 
 1. Software Development
  
