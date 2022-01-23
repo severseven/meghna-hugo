@@ -1,4 +1,4 @@
----
+c---
 new_page_extension: md
 auto_deploy: false
 admin_path: ''
@@ -15,8 +15,8 @@ sections:
   templates:
   - post
 - type: directory
-  path: exampleSite/content/italian/blog
-  label: Post (it)
+  path: exampleSite/content/french/blog
+  label: Post (fr)
   create: documents
   match: "**/*"
   templates:
@@ -31,8 +31,8 @@ sections:
   templates:
   - author
 - type: directory
-  path: exampleSite/content/italian/author
-  label: Author (it)
+  path: exampleSite/content/french/author
+  label: Author (fr)
   create: documents
   match: "**/*"
   templates:
