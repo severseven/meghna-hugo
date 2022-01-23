@@ -1,7 +1,7 @@
 ---
-title: "Mark Dinn"
+title: "ClientSide"
 image: ""
-email: "email2@example.org"
+email: "info@clientside.it"
 social:
   - icon : "ti-facebook" # themify icon pack : https://themify.me/themify-icons
     link : "#"
