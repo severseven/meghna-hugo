@@ -7,7 +7,7 @@ author:
 description : "Customer Service Desk"
 ---
 
-By adopting an integrated and automated ticket system, we offer real-time solutions for an efficient workflow thanks to highly specialized IT teams.
+### By adopting an integrated and automated ticket system, we offer real-time solutions for an efficient workflow thanks to highly specialized IT teams.
 
 > Interfacing with users via remote control software and highly configurable centralized dashboards.
 > 
