@@ -2,7 +2,7 @@ s- id: blogTitle
   translation: Operating Sectors
 - id: readMore
   translation: Read more
-- id: viewAllPost
+- id: viewAllSectors
   translation: View All Sectors
 - id: share
   translation: Share
@@ -22,7 +22,7 @@ s- id: blogTitle
   translation: Team
 - id: pricing
   translation: Pricing
-- id: blog
+- id: sectors
   translation: Sectors
 - id: contact
   translation: Contact
