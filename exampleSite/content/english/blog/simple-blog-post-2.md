@@ -9,6 +9,8 @@ description : "Information Technology"
 
 #### We design, employ and develop innovative IT tools with high-tech content: software management services and IT architectures for specific needs.
 
+> As a demonstration of proven experience, we operate in various local and national bodies.
+
 ### 1. Software Development
  
 > Design and development of custom software working closely with the customer in order to satisfy any particular need directly and immediately.
@@ -21,7 +23,7 @@ description : "Information Technology"
 
 ### 2. Software Management
  
-> As a demonstration of proven experience, we operate in various local and national bodies, managing the applications specifically issued by the institutions, such as GE.CO.2, for the management of movable assets, and SICOGE, a System for the integrated management of economic and financial accounting.
+>  Management of applications specifically issued by the institutions, such as GE.CO.2, for the management of movable assets, and SICOGE, a System for the integrated management of economic and financial accounting.
 
 ### 3. Security
 
