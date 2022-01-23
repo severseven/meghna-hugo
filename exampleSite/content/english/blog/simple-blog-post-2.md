@@ -7,7 +7,7 @@ author:
 description : "Information Technology"
 ---
 
-We design, employ and develop innovative IT tools with high-tech content: software management services and IT architectures for specific needs.
+### We design, employ and develop innovative IT tools with high-tech content: software management services and IT architectures for specific needs.
 
 ### 1. Software Development
  
