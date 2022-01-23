@@ -11,5 +11,4 @@ social:
     link : "#"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet.
-Donec nisi dolor, consequat vel pretium id, auctor in dui. Nam iaculis, neque ac ullamcorper.
+ClientSide è una società composta da professionisti altamente qualificati che operano nel campo della tutela, della conservazione e della valorizzazione dei beni culturali.
