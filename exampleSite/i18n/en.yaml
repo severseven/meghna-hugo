@@ -1,9 +1,9 @@
-- id: blogTitle
+s- id: blogTitle
   translation: Operating Sectors
 - id: readMore
   translation: Read more
 - id: viewAllPost
-  translation: View All Post
+  translation: View All Sectors
 - id: share
   translation: Share
 - id: aboutAuthor
