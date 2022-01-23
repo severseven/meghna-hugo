@@ -11,7 +11,7 @@ Communication technologies allow for an increasing interaction between different
 
 > Thanks to a long experience acquired in the field of cultural heritage and scientific research, we provides the customer with innovative multimedia communication techniques, based on the use of software environments aimed at integrating heterogeneous media and enriching the documentary reality experienced by the user.
 
-◉ Augmented Mapping
-◉ E-Scenography
-◉ Interactive installations
-◉ Exhibit design
+### ◉ Augmented Mapping
+### ◉ E-Scenography
+### ◉ Interactive installations
+### ◉ Exhibit design
