@@ -17,10 +17,10 @@ End-to-end technology for event sharing: planning, promotion, execution. Customi
 >
 > Setting of the rooms in the accordance with the customer's needs.
 
-◉ Conferences
-◉ Meeting
-◉ Events
-◉ Marketing
-◉ Documentary Films
-◉ Video Clips
-◉ Broadcasting
+### ◉ Conferences
+### ◉ Meeting
+### ◉ Events
+### ◉ Marketing
+### ◉ Documentary Films
+### ◉ Video Clips
+### ◉ Broadcasting
