@@ -2,7 +2,7 @@ s- id: blogTitle
   translation: Operating Sectors
 - id: readMore
   translation: Read more
-- id: viewAllSectors
+- id: viewAllPosts
   translation: View All Sectors
 - id: share
   translation: Share
@@ -22,8 +22,8 @@ s- id: blogTitle
   translation: Team
 - id: pricing
   translation: Pricing
-- id: sectors
-  translation: Sectors
+- id: blog
+  translation: Blog
 - id: contact
   translation: Contact
 - id: themefisher
