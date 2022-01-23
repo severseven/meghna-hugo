@@ -7,7 +7,7 @@ author:
 description : "Service Portfolio"
 ---
 
-Modern business requires IT practices that support sustainable innovation. You need to rely to a company with an optimized and diversificated IT portfolio in order to promptly addresses market opportunities and quickly align with business priorities.
+### Modern business requires IT practices that support sustainable innovation. You need to rely to a company with an optimized and diversificated IT portfolio in order to promptly addresses market opportunities and quickly align with business priorities.
 
 > We analyze and evaluate the state of conservation of the archival and book heritage for preventive interventions and planning of restoration methods.
 > 
