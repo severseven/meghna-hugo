@@ -9,27 +9,27 @@ description : "Cultural Heritage"
 
 Digital technology has changed our way of writing and of reading, therefore of thinking. Paper documents remain nevertheless the main source of information about the past. The digitization of historical sources is essential for the elaboration of new visions of the world, just as for the preservation of memories.
 
-> ClientSide specializes in the processing and conditioning of documentary assets of various kinds: valuable paper material, ancient and modern books, maps, geographical maps, parchments, archives, photographic material, microfilms.
+> **ClientSide** specializes in the processing and conditioning of documentary assets of various kinds: ```valuable paper material, ancient and modern books, maps, geographical maps, parchments, archives, photographic material, microfilms.```
 > 
-> The working methodology, specific for each type of material, provides for a timely and effective implementation of all or some of the following phases depending on the needs expressed.
+> The working methodology, specific for each type of material, provides for a timely and effective implementation of all or some of the following phases depending on the client's needs.
 
-1. Archival System Design and Development
+### 1. Archival System Design and Development
 
-> Identification of processes for the organization and reorganization of libraries, archives and documentation centers with relative optimization of management processes.
+> Identification of processes for the organization and reorganization of ```libraries, archives and documentation centers``` with relative optimization of management processes.
 
-2. Finding and Grouping
+### 2. Finding and Grouping
 
 > Careful inspection of the locations in order to find all the material deemed of interest.
 > 
 > Objective description of the way in which it is found, also with the support of photographic recordings to document the pre-intervention state.
 > 
-> Objective description of the environments where the material is found in order to testify the methods and its relative state of conservation.
+> Objective description of the environments where the stuff is found in order to testify the methods and its relative state of conservation.
 > 
-> Grouping of all the material in a single room in order to facilitate a preliminary analysis.
+> Grouping of all the stuff in a single room in order to facilitate a preliminary analysis.
 > 
 > Handling activity carried out with the utmost caution, with the aid of suitable tools such as fabric gloves or masks, in order to avoid the deterioration of items. 
 
-3. Survey and Analysys
+### 3. Survey and Analysys
 
 > Preliminary analysis of the objects collected.
 > 
@@ -43,7 +43,7 @@ Digital technology has changed our way of writing and of reading, therefore of t
 > 
 > Visual recognition and quantitative/qualitative evaluation of the items.
 
-4. Preventive Conservation
+### 4. Preventive Conservation
 
 > Given the complexity and heterogeneity of the different items, each type of them requires appropriate conservation conditions: for this reason, a complete knowledge of it through targeted techniques is needed.
 > 
@@ -52,7 +52,7 @@ Digital technology has changed our way of writing and of reading, therefore of t
 > A thermohygrometric monitoring of the rooms intended for conservation is carried out by special tools aimed at collecting data in order to outline future behavior in relation to the external climatic excursion. Where necessary, provision is made for the preparation and use of containers suitable for preserving each type of asset.
 information about the archive's history.
 
-5. Location and Inventariation
+### 5. Location and Inventariation
 
 > Ordered physical location that does not necessarily determine the future definitive arrangement.
 > 
@@ -60,7 +60,7 @@ information about the archive's history.
 > 
 > Ordered and easy-to-access arrangement of the material, subsequent systematic alphanumeric placement and drafting of inventory records for each category of assets.
 
-6. Cataloging and Indexing
+### 6. Cataloging and Indexing
 
 > Arrangement according to national and international standards and regulations.
 > 
@@ -68,7 +68,7 @@ information about the archive's history.
 > 
 > Preparation and development of highly technological infrastructures for fruition. 
 
-7. Digitalization
+### 7. Digitalization
 
 > Digital reproduction has become strongly established in recent times and offers an important tool for long-term preservation, as well as for the considerable expansion of the possibilities for public use.
 > 
@@ -92,6 +92,6 @@ information about the archive's history.
 > 
 > Possible creation of a web-portal for online publication.
     
-8. Restoration
+### 8. Restoration
  
-> Design and restoration of volumes and documents, prints and works of art on paper, photographic items.
+> Design and restoration of ```volumes and documents, prints and works of art on paper, photographic items.```
