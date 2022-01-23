@@ -3,14 +3,14 @@ about:
   enable : true
   title : About Us
   about_item :
-  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
+  - icon : ti-headphone-alt # themify icon pack : https://themify.me/themify-icons
     title : Assistance and Support
     content : A professional team with the aim of give the client the best services, technical and system support for servers and networking.
 
-  - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
+  - icon : ti-server # themify icon pack : https://themify.me/themify-icons
     title : Consulting and Design
     content : Integrated approach to centralized data and information management solutions, such as migration, replication and synchronization.
 
-  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
+  - icon : ti-shield # themify icon pack : https://themify.me/themify-icons
     title : Information Security
     content : Forefront tools and processes to ensure the safety of critical data and prevent unauthorized access to sensitive information.
