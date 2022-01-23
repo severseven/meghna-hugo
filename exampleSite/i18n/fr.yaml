@@ -1,5 +1,5 @@
 - id: blogTitle
-  translation: Dernier message
+  translation: Settori Operativi
 - id: readMore
   translation: Lire la suite
 - id: viewAllPost
@@ -23,7 +23,7 @@
 - id: pricing
   translation: Tarification
 - id: blog
-  translation: Settori Operativi
+  translation: Blog
 - id: contact
   translation: Contact
 - id: themefisher
