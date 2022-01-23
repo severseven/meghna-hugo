@@ -9,9 +9,11 @@ description : "Digital Sustainibility"
 
 #### Knowing and learning to use new tools and ways of working can help achieve the goal of a substantial reduction in environmental impact.
 
+> The development of wireless networks, as well as the evolution of remote collaboration and control tools, combined in the near future with the implementation of virtual reality, will constitute the main aid in reducing the carbon footprint of any company.
+
 ### 1. Enriching the Experience
 
-> The development of wireless networks, as well as the evolution of remote collaboration and control tools, combined in the near future with the implementation of virtual reality, will constitute the main aid in reducing the carbon footprint of any company.
+> Virtual reality and augmented reality are the key technologies for a seamlessly immersion in virtual environments. Multimedia tools improve and enrich user experiences and interactions, particularly in domains such as education and  learning.
 
 ### 2. Facilitating Meeting and Work
 
