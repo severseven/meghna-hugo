@@ -9,13 +9,13 @@ description : "Cultural Heritage"
 
 Digital technology has changed our way of writing and of reading, therefore of thinking. Paper documents remain nevertheless the main source of information about the past. The digitization of historical sources is essential for the elaboration of new visions of the world, just as for the preservation of memories.
 
-> **ClientSide** specializes in the processing and conditioning of documentary assets of various kinds: ```valuable paper material, ancient and modern books, maps, geographical maps, parchments, archives, photographic material, microfilms.```
+> **ClientSide** specializes in the processing and conditioning of documentary assets of various kinds: valuable paper material, ancient and modern books, maps, geographical maps, parchments, archives, photographic material, microfilms.
 > 
 > The working methodology, specific for each type of material, provides for a timely and effective implementation of all or some of the following phases depending on the client's needs.
 
 1. Archival System Design and Development
 
-> Identification of processes for the organization and reorganization of ```libraries, archives and documentation centers``` with relative optimization of management processes.
+> Identification of processes for the organization and reorganization of libraries, archives and documentation centers with relative optimization of management processes.
 
 2. Finding and Grouping
 
@@ -94,4 +94,4 @@ information about the archive's history.
     
 8. Restoration
  
-> Design and restoration of ```volumes and documents, prints and works of art on paper, photographic items.```
+> Design and restoration of volumes and documents, prints and works of art on paper, photographic items.
