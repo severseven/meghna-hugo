@@ -3,7 +3,7 @@ s- id: blogTitle
 - id: readMore
   translation: Read more
 - id: viewAllPosts
-  translation: View All Sectors
+  translation: View All Posts
 - id: share
   translation: Share
 - id: aboutAuthor
