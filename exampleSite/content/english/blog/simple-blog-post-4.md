@@ -7,7 +7,7 @@ author:
 description : "Digital Sustainibility"
 ---
 
-Knowing and learning to use new tools and ways of working can help achieve the goal of a substantial reduction in environmental impact.
+### Knowing and learning to use new tools and ways of working can help achieve the goal of a substantial reduction in environmental impact.
 
 ### Enrich the Experience
 
