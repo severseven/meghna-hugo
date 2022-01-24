@@ -29,7 +29,7 @@ testimonial:
       image : images/client/client-1.jpg
       image_webp : images/client/client-1.webp
       date : Dec 01, 2022
-      content : [Museo Nazionale Romano](https://museonazionaleromano.beniculturali.it/)
+      content : Museo Nazionale Romano [Museo Nazionale Romano](https://museonazionaleromano.beniculturali.it/)
       
     # testimonial item loop
     - name : Galleria Nazionale Barberini Corsini
