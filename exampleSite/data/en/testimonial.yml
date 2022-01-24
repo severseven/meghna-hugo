@@ -5,12 +5,11 @@ testimonial:
   bg_image_webp : images/backgrounds/bg-testimonial.webp
   testimonial_item :
     # testimonial item loop
-    - name : Jonathon Andrew
+    - name : Biblioteca Universitaria Alessandrina
       image : images/client/client-1.jpg
       image_webp : images/client/client-1.webp
       date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
-      
+      content : The Alexandrine University Library is a historic library founded in 1667 by Pope Alexander VII in Rome as a library of the Studium Urbis, the University of Rome. The Alessandrina Library has over 1,000,000 printed volumes and brochures.
     # testimonial item loop
     - name : Mark Dinn
       image : images/client/client-2.jpg
