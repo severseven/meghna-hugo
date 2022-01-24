@@ -23,3 +23,73 @@ testimonial:
       image_webp : images/client/client-1.webp
       date : Dec 01, 2022
       content : The Central State Archives (ACS) is an institution with special autonomy from the Ministry of Culture, and belongs to the General Directorate for Archives. It is based in the city of Rome in the EUR district. The ACS mainly keeps the documents (from 1861 onwards) of the central judicial and administrative bodies of the Italian State.
+
+    # testimonial item loop
+    - name : Museo Nazionale Romano
+      image : images/client/client-1.jpg
+      image_webp : images/client/client-1.webp
+      date : Dec 01, 2022
+      content :
+      
+    # testimonial item loop
+    - name : Galleria Nazionale Barberini Corsini
+      image : images/client/client-1.jpg
+      image_webp : images/client/client-1.webp
+      date : Dec 01, 2022
+      content :
+      
+    # testimonial item loop
+    - name : Biblioteca Nazionale Centrale di Roma
+      image : images/client/client-1.jpg
+      image_webp : images/client/client-1.webp
+      date : Dec 01, 2022
+      content : The National Central Library of Rome (BNCR) is one of the two Italian national libraries that have the main task of storing all Italian publications. It is also known as "Vittorio Emanuele II", from the name of the King of Italy to whom it was dedicated in the 1875. It is located near Termini Station in Rome and houses seven million volumes and 25,000 sixteenth-century books.
+      
+    # testimonial item loop
+    - name : Giunta Centrale per gli Studi Storici
+      image : images/client/client-1.jpg
+      image_webp : images/client/client-1.webp
+      date : Dec 01, 2022
+      content :
+      
+    # testimonial item loop
+    - name : Centro per il Libro e la Lettura
+      image : images/client/client-1.jpg
+      image_webp : images/client/client-1.webp
+      date : Dec 01, 2022
+      content :
+      
+    # testimonial item loop
+    - name : ICPAL - Istituto Centrale per la Patologia degli Archivi e del Libro
+      image : images/client/client-1.jpg
+      image_webp : images/client/client-1.webp
+      date : Dec 01, 2022
+      content :
+        
+    # testimonial item loop
+    - name : Ministero del Turismo
+      image : images/client/client-1.jpg
+      image_webp : images/client/client-1.webp
+      date : Dec 01, 2022
+      content : The Ministry of Tourism is a department of the Italian government. It has the task of taking care of the planning, coordination and promotion of national tourism policies. It was established in 2021 as a result of a spin-off from the Ministry of Cultural Heritage and Activities and Tourism, which at the same time was renamed the Ministry of Culture.
+           
+    # testimonial item loop
+    - name : Ministero dell'Interno
+      image : images/client/client-1.jpg
+      image_webp : images/client/client-1.webp
+      date : Dec 01, 2022
+      content : The Ministry of the Interior is a department of the Italian government. It has jurisdiction over public order in its capacity as the highest national public security authority. It is among the oldest departments present in the government of the Kingdom of Sardinia and passed almost unscathed despite the growth of functions assumed after the unification of Italy, from 1861. 
+           
+    # testimonial item loop
+    - name : Ministero della Giustizia
+      image : images/client/client-1.jpg
+      image_webp : images/client/client-1.webp
+      date : Dec 01, 2022
+      content : The Ministry of Justice is a department of the Italian government. He is in charge of organizing the civil, criminal and juvenile judicial administration, magistrates and the penitentiary. The Ministry has been present since the Cavour IV government in 1861. From 1932, it took on the name of "Grazia e Giustizia".
+           
+    # testimonial item loop
+    - name : Ministero della Cultura
+      image : images/client/client-1.jpg
+      image_webp : images/client/client-1.webp
+      date : Dec 01, 2022
+      content : The Ministry of Culture, also known by the acronym MiC, is a department of the Italian government. It is responsible for the protection of culture and entertainment and the conservation of the artistic, cultural and landscape heritage. Established in 1974 as the Ministry of Cultural and Environmental Heritage, it has taken on various names over the years. 
