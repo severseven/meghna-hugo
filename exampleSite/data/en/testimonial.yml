@@ -8,14 +8,14 @@ testimonial:
     - name : Biblioteca Universitaria Alessandrina
       image : images/client/client-1.jpg
       image_webp : images/client/client-1.webp
-      date : Dec 26, 2018
+      date : Dec 01, 2022
       content : The Alexandrine University Library is a historic library founded in 1667 by Pope Alexander VII in Rome as a library of the Studium Urbis, the University of Rome. The Alessandrina Library has over 1,000,000 printed volumes and brochures.
     # testimonial item loop
-    - name : Mark Dinn
+    - name : Biblioteca Vallicelliana
       image : images/client/client-2.jpg
       image_webp : images/client/client-2.webp
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+      date : Dec 01, 2022
+      content : The Vallicelliana Library is a public library in Rome located in piazza della Chiesa Nuova in the Parione district, next to the church of Santa Maria in Vallicella, on the second floor of the Filippini Oratory. The building, a seventeenth-century work by the architect Francesco Borromini, was built on commission from the Congregation of the Oratory of San Filippo Neri, in the years 1637-1667. 
       
     # testimonial item loop
     - name : Lemos Kail
