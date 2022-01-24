@@ -9,87 +9,88 @@ testimonial:
       image : images/client/client-1.jpg
       image_webp : images/client/client-1.webp
       date : Dec 01, 2022
-      content : The Alexandrine University Library is a historic library founded in 1667 by Pope Alexander VII in Rome as a library of the Studium Urbis, the University of Rome. The Alessandrina Library has over 1,000,000 printed volumes and brochures.
+      content : Go to [Biblioteca Alessandrina](https://alessandrina.librari.beniculturali.it/)
+      
     # testimonial item loop
     - name : Biblioteca Vallicelliana
       image : images/client/client-2.jpg
       image_webp : images/client/client-2.webp
       date : Dec 01, 2022
-      content : The Vallicelliana Library is a historic library located in piazza della Chiesa Nuova in Rome, on the second floor of the Filippini Oratory, a seventeenth-century work by the architect Francesco Borromini, built for the Congregation of the Oratory of San Filippo Neri in the years 1637-1667. 
+      content : Go to [Biblioteca Vallicelliana](http://www.vallicelliana.it/)
       
     # testimonial item loop
     - name : Archivio Centrale dello Stato
       image : images/client/client-1.jpg
       image_webp : images/client/client-1.webp
       date : Dec 01, 2022
-      content : The Central State Archives (ACS) is an institution with special autonomy from the Ministry of Culture, and belongs to the General Directorate for Archives. It is based in the city of Rome in the EUR district. The ACS mainly keeps the documents (from 1861 onwards) of the central judicial and administrative bodies of the Italian State.
-
+      content : Go to [ACS](https://www.acs.beniculturali.it/)
+      
     # testimonial item loop
     - name : Museo Nazionale Romano
       image : images/client/client-1.jpg
       image_webp : images/client/client-1.webp
       date : Dec 01, 2022
-      content : Museo Nazionale Romano [Museo Nazionale Romano](https://museonazionaleromano.beniculturali.it/)
+      content : Go to [Museo Nazionale Romano](https://museonazionaleromano.beniculturali.it/)
       
     # testimonial item loop
     - name : Galleria Nazionale Barberini Corsini
       image : images/client/client-1.jpg
       image_webp : images/client/client-1.webp
       date : Dec 01, 2022
-      content :
+      content : Go to [Galleria Nazionale Barberini Corsini](https://www.barberinicorsini.org/)
       
     # testimonial item loop
     - name : Biblioteca Nazionale Centrale di Roma
       image : images/client/client-1.jpg
       image_webp : images/client/client-1.webp
       date : Dec 01, 2022
-      content : The National Central Library of Rome (BNCR) is one of the two Italian national libraries that have the main task of storing all Italian publications. It is also known as "Vittorio Emanuele II", from the name of the King of Italy to whom it was dedicated in the 1875. It is located near Termini Station in Rome and houses seven million volumes and 25,000 sixteenth-century books.
+      content : Go to [BNCR](http://www.bncrm.beniculturali.it/)
       
     # testimonial item loop
     - name : Giunta Centrale per gli Studi Storici
       image : images/client/client-1.jpg
       image_webp : images/client/client-1.webp
       date : Dec 01, 2022
-      content :
+      content : Go to [GCSS](https://www.gcss.it/)
       
     # testimonial item loop
     - name : Centro per il Libro e la Lettura
       image : images/client/client-1.jpg
       image_webp : images/client/client-1.webp
       date : Dec 01, 2022
-      content :
+      content : Go to [CEPELL](https://cepell.it/)
       
     # testimonial item loop
-    - name : ICPAL - Istituto Centrale per la Patologia degli Archivi e del Libro
+    - name : Istituto Centrale per la Patologia degli Archivi e del Libro
       image : images/client/client-1.jpg
       image_webp : images/client/client-1.webp
       date : Dec 01, 2022
-      content :
-        
+      content : Go to [ICPAL](https://icpal.beniculturali.it/)
+    
     # testimonial item loop
     - name : Ministero del Turismo
       image : images/client/client-1.jpg
       image_webp : images/client/client-1.webp
       date : Dec 01, 2022
-      content : The Ministry of Tourism is a department of the Italian government. It has the task of taking care of the planning, coordination and promotion of national tourism policies. It was established in 2021 as a result of a spin-off from the Ministry of Cultural Heritage and Activities and Tourism, which at the same time was renamed the Ministry of Culture.
-           
+      content : Go to [Ministero Turismo](https://www.ministeroturismo.gov.it/)
+      
     # testimonial item loop
     - name : Ministero dell'Interno
       image : images/client/client-1.jpg
       image_webp : images/client/client-1.webp
       date : Dec 01, 2022
-      content : The Ministry of the Interior is a department of the Italian government. It has jurisdiction over public order in its capacity as the highest national public security authority. It is among the oldest departments present in the government of the Kingdom of Sardinia and passed almost unscathed despite the growth of functions assumed after the unification of Italy, from 1861. 
-           
+      content : Go to [Ministero Interno](https://www.interno.gov.it/it)
+      
     # testimonial item loop
     - name : Ministero della Giustizia
       image : images/client/client-1.jpg
       image_webp : images/client/client-1.webp
       date : Dec 01, 2022
-      content : The Ministry of Justice is a department of the Italian government. He is in charge of organizing the civil, criminal and juvenile judicial administration, magistrates and the penitentiary. The Ministry has been present since the Cavour IV government in 1861. From 1932, it took on the name of "Grazia e Giustizia".
-           
+      content : Go to [Ministero Giustizia](https://www.giustizia.it/giustizia/)
+      
     # testimonial item loop
     - name : Ministero della Cultura
       image : images/client/client-1.jpg
       image_webp : images/client/client-1.webp
       date : Dec 01, 2022
-      content : The Ministry of Culture, also known by the acronym MiC, is a department of the Italian government. It is responsible for the protection of culture and entertainment and the conservation of the artistic, cultural and landscape heritage. Established in 1974 as the Ministry of Cultural and Environmental Heritage, it has taken on various names over the years. 
+      content : Go to [Ministero Cultura](https://www.beniculturali.it/)
