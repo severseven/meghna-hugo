@@ -31,7 +31,7 @@ description : "Cultural Heritage"
 > 
 > Handling activity carried out with the utmost caution, with the aid of suitable tools such as fabric gloves or masks, in order to avoid the deterioration of items. 
 
-### 3. Survey and Analysys
+### 3. Survey and Analysis
 
 > Preliminary analysis of the objects collected.
 > 
