@@ -32,6 +32,13 @@ testimonial:
       date : Dec 01, 2022
       content : Go to [Museo Nazionale Romano](https://museonazionaleromano.beniculturali.it/)
       
+     # testimonial item loop
+    - name : Parco Archeologico del Colosseo
+      image : images/client/client-1.jpg
+      image_webp : images/client/client-1.webp
+      date : Dec 01, 2022
+      content : Go to [Parco Archeologico del Colosseo](https://parcocolosseo.it/)
+      
     # testimonial item loop
     - name : Galleria Nazionale Barberini Corsini
       image : images/client/client-1.jpg
@@ -59,6 +66,13 @@ testimonial:
       image_webp : images/client/client-1.webp
       date : Dec 01, 2022
       content : Go to [CEPELL](https://cepell.it/)
+      
+     # testimonial item loop
+    - name : Istituto Centrale per la Grafica
+      image : images/client/client-1.jpg
+      image_webp : images/client/client-1.webp
+      date : Dec 01, 2022
+      content : Go to [ICG](https://www.grafica.beniculturali.it/)
       
     # testimonial item loop
     - name : Istituto Centrale per la Patologia degli Archivi e del Libro
