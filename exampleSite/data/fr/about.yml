@@ -4,8 +4,8 @@ about:
   title : About Us
   about_item :
   - icon : ti-headphone-alt # themify icon pack : https://themify.me/themify-icons
-    title : Assistenza e supporto
-    content : Un team di professionisti con l'obiettivo di fornire al cliente i migliori servizi e un tempestivo ed efficiente supporto tecnico e di sistema per server e networking.
+    title : Assistenza e supporto informatico
+    content : Un team di professionisti con l'obiettivo di fornire al cliente i migliori servizi e un pronto supporto tecnico e di sistema per server e networking.
 
   - icon : ti-server # themify icon pack : https://themify.me/themify-icons
     title : Consulenza e Progettazione
