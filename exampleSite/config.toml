@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
-baseURL = "https://examplesite.com"
-title = "Meghna"
+baseURL = "https://clintside.it"
+title = "ClientSide"
 theme = "meghna-hugo"
 # post pagination
 paginate = "6"
