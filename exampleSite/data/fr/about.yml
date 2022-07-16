@@ -4,13 +4,13 @@ about:
   title : About Us
   about_item :
   - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
-    title : We're Creative
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    title : Assistenza e supporto
+    content : Un team di professionisti con l'obiettivo di fornire al cliente i migliori servizi, supporto tecnico e di sistema per server e networking.
 
   - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
-    title : We're Professional
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    title : Consulenza e Progettazione
+    content : Un approccio integrato alle soluzioni di gestione centralizzata dei dati e delle informazioni, come migrazione, replica e sincronizzazione.
 
   - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
-    title : We're Genius
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    title : Sicurezza delle informazioni
+    content : Strumenti e processi all'avanguardia per garantire la sicurezza dei dati critici e impedire l'accesso non autorizzato alle informazioni sensibili.
