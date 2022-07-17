@@ -1,6 +1,5 @@
 ---
 title: "IT Consulting"
-date: 2018-09-12T14:51:12+06:00
 author:
 image_webp: images/blog/blog-post-9.webp
 image: images/blog/blog-post-9.jpg
