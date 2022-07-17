@@ -7,7 +7,7 @@ author:
 description : "Eredità culturale"
 ---
 
-#### La tecnologia digitale ha cambiato il nostro modo di scrivere e di leggere, quindi di pensare, ma i documenti cartacei restano la principale fonte di informazioni sul nostro passato, per cui la loro digitalizzazione diviene essenziale non solo per la conservazione delle nostre memorie ma anche per l'elaborazione di nuove visioni del mondo.
+#### La tecnologia digitale ha cambiato il nostro modo di scrivere e di leggere, quindi di pensare, ma i documenti cartacei restano la principale fonte di informazioni sul nostro passato, per cui la loro digitalizzazione è essenziale per la conservazione delle nostre memorie ma anche per l'elaborazione di nuove visioni del mondo.
 
 > ClientSide è specializzata nel trattamento e nel condizionamento di patrimoni documentali di varia natura:
 >
