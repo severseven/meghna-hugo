@@ -1,15 +1,15 @@
 - id: blogTitle
-  translation: Ultimo messaggio
+  translation: Ultimi Post
 - id: readMore
   translation: Leggi tutto
 - id: viewAllPost
-  translation: Tutti gli articoli
+  translation: Tutti i post
 - id: share
   translation: Condividi
 - id: aboutAuthor
-  translation: L'autore
+  translation: Chi siamo
 - id: authorsPosts
-  translation: Post dell'autore
+  translation: I nostri post
 - id: all
   translation: Tutto
 - id: about
@@ -26,5 +26,5 @@
   translation: Blog
 - id: contact
   translation: Contatti
-- id: clientside
-  translation: ClientSide
+- id: thefisher
+  translation: thefisher
