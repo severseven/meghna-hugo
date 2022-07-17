@@ -3,7 +3,7 @@ contact:
   enable : true
   title : Contact Us
   subtitle : Contact Details
-  content : Please contact us with any questions and advice. Don't hesitate to contact us for further information. We'd be more than happy to answer your questions as soon as possible.
+  content : Please don't hesitate to contact us with any questions. We'd be more than happy to answer your questions and provide you further information as soon as possible.
 
   # Contact details
   contact_list:
