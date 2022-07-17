@@ -3,22 +3,26 @@ contact:
   enable : true
   title : Contact Us
   subtitle : Contact Details
-  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero, provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
+  content : Please contact us with any questions and advice. Don't hesitate to contact us for further information. We'd be more than happy to answer your questions as soon as possible.
 
   # Contact details
   contact_list:
     - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
-      info : "Khaja Road, Bayzid, Chittagong, Bangladesh"
+      info : "Via Gerace, 1 – 00182 Rome, Italy"
       
     - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
-      info : "Phone: +880-31-000-000"
+      info : "Phone: +39 3351244331"
       
     - icon : ti-printer # themify icon pack : https://themify.me/themify-icons
-      info : "Fax: +880-31-000-000"
+      info : "PEC: clientside@pec.it"
       
     - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-      info : "Email: hello@meghna.com"
-
+      info : "Email: info@clientside.it"
+      
+    - icon : ti-layout-cta-left # themify icon pack : https://themify.me/themify-icons
+      info : "P. Iva & C.F.: 14683611009"
+      
+      
 
   # Contact form
   contact_form:
