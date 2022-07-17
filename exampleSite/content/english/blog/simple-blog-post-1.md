@@ -11,9 +11,9 @@ description : "Cultural Heritage"
 
 > ClientSide specializes in the processing and conditioning of documentary assets of various kinds:
 > 
-> **valuable paper material, ancient and modern books, maps, geographical maps, parchments, archives, photographic material, microfilms.**
+> **valuable paper material, ancient and modern books, geographical maps, parchments, archives, photographic material, microfilms.**
 > 
-> The working methodology, specific for each type of material, provides for a timely and effective implementation of all or some of the following phases depending on the client's needs.
+> The working methodology, specific for each type of material, provides for a timely and effective implementation of all or some of the executive phases depending on the client's needs.
 
 ### 1. Archival System Design and Development
 
@@ -29,7 +29,7 @@ description : "Cultural Heritage"
 > 
 > Grouping of all the stuff in a single room in order to facilitate a preliminary analysis.
 > 
-> Handling activity carried out with the utmost caution, with the aid of suitable tools such as fabric gloves or masks, in order to avoid the deterioration of items. 
+> Handling activity carried out with the utmost caution, with the aid of suitable tools, in order to avoid the deterioration of items. 
 
 ### 3. Survey and Analysis
 
@@ -47,18 +47,15 @@ description : "Cultural Heritage"
 
 ### 4. Preventive Conservation
 
-> Given the complexity and heterogeneity of the different items, each type of them requires appropriate conservation conditions: for this reason, a complete knowledge of it through targeted techniques is needed.
+> Given the complexity and heterogeneity of the different items, each type of item requires appropriate conservation conditions: for this reason, a complete knowledge of it through targeted techniques is needed.
 > 
 > An investigation about the state of the material and its conservation needs is therefore fundamental, as well as the identification of any emergencies-
 > 
 > A thermohygrometric monitoring of the rooms intended for conservation is carried out by special tools aimed at collecting data in order to outline future behavior in relation to the external climatic excursion. Where necessary, provision is made for the preparation and use of containers suitable for preserving each type of asset.
-information about the archive's history.
 
 ### 5. Location and Inventariation
 
-> Ordered physical location that does not necessarily determine the future definitive arrangement.
-> 
-> Grouping of units sharing similar features or belonging to the same fund, collection, kind, etc.
+> Grouping of items sharing similar features or belonging to the same fund, collection, kind, etc.
 > 
 > Ordered and easy-to-access arrangement of the material, subsequent systematic alphanumeric placement and drafting of inventory records for each category of assets.
 
@@ -74,7 +71,7 @@ information about the archive's history.
 
 > Digital reproduction has become strongly established in recent times and offers an important tool for long-term preservation, as well as for the considerable expansion of the possibilities for public use.
 > 
-> To this end, the use of cutting-edge technological and technical instruments is envisaged, with particular attention paid to the indexing of the related data.
+> To this end, the use of cutting-edge IT tools is envisaged, with particular attention paid to the indexing of the related data.
 > 
 > Also of note is the development of metadata, an indispensable tool for making access to the material clear and immediate.
 > 
@@ -93,7 +90,5 @@ information about the archive's history.
 > Creation of formats for online publication, according to a predefined strategy of public access through custom software.
 > 
 > Possible creation of a web-portal for online publication.
-    
-### 8. Restoration
- 
+     
 > Design and restoration of volumes and documents, prints and works of art on paper, photographic items.
