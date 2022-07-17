@@ -18,6 +18,10 @@ contact:
       
     - icon : ti-email # themify icon pack : https://themify.me/themify-icons
       info : "Email: info@clientside.it"
+      
+    - icon : ti-layout-cta-left # themify icon pack : https://themify.me/themify-icons
+      info : "P. Iva & C.F.: 14683611009"
+      
 
 
   # Contact form
