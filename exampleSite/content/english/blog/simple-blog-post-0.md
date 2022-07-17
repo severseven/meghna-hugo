@@ -1,9 +1,9 @@
 ---
 title: "IT Consulting"
 date:
-author:
 image_webp: images/blog/blog-post-9.webp
 image: images/blog/blog-post-9.jpg
+author:
 description : "IT Consulting"
 ---
 
