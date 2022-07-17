@@ -7,9 +7,9 @@
 - id: share
   translation: Condividi
 - id: aboutAuthor
-  translation: L'autore
+  translation: Chi siamo
 - id: authorsPosts
-  translation: Post dell'autore
+  translation: I nostri post
 - id: all
   translation: Tutto
 - id: about
@@ -26,5 +26,5 @@
   translation: Blog
 - id: contact
   translation: Contatti
-- id: themefisher
-  translation: Themefisher
+- id: clientside
+  translation: ClienSide
