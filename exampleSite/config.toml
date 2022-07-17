@@ -191,8 +191,8 @@ copyright = "Copyright &copy; 2022 Designed by [ClientSide](https://www.clientsi
 ################################ France Language ########################
 [Languages.fr]
 languageName = "It"
-languageCode = "it-it"
-contentDir = "content/italian"
+languageCode = "fr-fr"
+contentDir = "content/french"
 weight = 1
 home = "Home"
 copyright = "Copyright &copy; 2022 Designed by [ClientSide](https://www.clientside.it) & Developed by [ClientSide](https://www.clientside.it)"
