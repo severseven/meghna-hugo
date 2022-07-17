@@ -7,7 +7,7 @@ author:
 description : "IT Consulting"
 ---
 
-#### Nella nuova era digitale è fondamentale che le aziende si affidino a un team di consulenti professionisti per compiere scelte strategiche e sfruttare adeguate competenze nel campo della manutenzione della rete e della gestione dei dati.
+#### Nella nuova era digitale è fondamentale che le aziende si affidino a un team di consulenti professionisti per compiere scelte strategiche e sfruttare adeguate competenze nel campo della manutenzione della rete e della gestione dei dati, così come in quello del supporto informatico e della valutazione degli asset.
 
 > Procedure collaudate per una gestione flessibile e integrata dei servizi e dell'architettura informatica.
 >
