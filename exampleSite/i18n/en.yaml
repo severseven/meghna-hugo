@@ -21,10 +21,10 @@
 - id: team
   translation: Team
 - id: pricing
-  translation: Pricing
+  translation: Projects
 - id: blog
   translation: Blog
 - id: contact
   translation: Contact
-- id: themefisher
-  translation: Themefisher
+- id: clientside
+  translation: ClientSide
