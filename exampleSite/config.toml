@@ -62,7 +62,7 @@ url = "#team"
 weight = 4
 
 [[Languages.en.menu.main]]
-name = "projects"
+name = "custumers"
 url = "#pricing"
 weight = 5
 
@@ -105,7 +105,7 @@ url = "#team"
 weight = 4
 
 [[Languages.fr.menu.main]]
-name = "progetti"
+name = "clienti"
 url = "#pricing"
 weight = 5
 
