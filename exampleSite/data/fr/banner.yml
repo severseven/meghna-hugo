@@ -8,5 +8,5 @@ banner:
   content : "Esperienza, professionalità, qualità e velocità dei servizi ci contraddistinguono. Le carte vincenti su cui puntiamo"
   button:
     enable : true
-    label : "Scopri di cosa ci occupiamo"
+    label : "Explore Us"
     link : "#services"
