@@ -1,6 +1,6 @@
 ---
 title: "IT Consulting"
-date:
+date: 2022-01-02T12:52:36+06:00
 image_webp: images/blog/blog-post-9.webp
 image: images/blog/blog-post-9.jpg
 author:
