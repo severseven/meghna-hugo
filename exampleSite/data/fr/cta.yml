@@ -7,5 +7,5 @@ cta:
   content : "Un approccio proattivo alla fornitura di informazioni, strumenti e servizi"
   button:
     enable : true
-    label : "Pronti per il futuro"
+    label : "Contattaci"
     link : "#contact"
