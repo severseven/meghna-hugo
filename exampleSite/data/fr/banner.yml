@@ -8,5 +8,5 @@ banner:
   content : "Arte, Innovazione e Tecnologia"
   button:
     enable : true
-    label : "Scopri di cosa ci occupiamo"
+    label : "Scopri chi siamo"
     link : "#services"
