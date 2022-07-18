@@ -8,5 +8,5 @@ banner:
   content : "Lorem ipsum"
   button:
     enable : true
-    label : "Explore Us"
+    label : "Scopri di cosa ci occupiamo"
     link : "#services"
