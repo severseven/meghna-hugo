@@ -14,9 +14,9 @@ pricing:
         - 1 GB Storage
         - 10 GB Bandwidth
         - 24/7 Tech Support
-      button:
-#        label : "Signup"
-        link : "#"
+#     button:
+#       label : "Signup"
+#       link : "#"
       
     # pricing table loop
     - name : Silver
