@@ -29,9 +29,9 @@ pricing:
         - 1 GB Storage
         - 10 GB Bandwidth
         - 24/7 Tech Support
-      button:
-        label : "Signup"
-        link : "#"
+#     button:
+#       label : "Signup"
+#       link : "#"
         
     # pricing table loop
     - name : Gold
@@ -44,9 +44,9 @@ pricing:
         - 1 GB Storage
         - 10 GB Bandwidth
         - 24/7 Tech Support
-      button:
-        label : "Signup"
-        link : "#"
+#     button:
+#       label : "Signup"
+#       link : "#"
         
     # pricing table loop
     - name : Platinum
@@ -59,6 +59,6 @@ pricing:
         - 1 GB Storage
         - 10 GB Bandwidth
         - 24/7 Tech Support
-      button:
-        label : "Signup"
-        link : "#"
+#     button:
+#       label : "Signup"
+#       link : "#"
