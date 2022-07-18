@@ -15,7 +15,7 @@ pricing:
         - 10 GB Bandwidth
         - 24/7 Tech Support
       button:
-        label : "Signup"
+#        label : "Signup"
         link : "#"
       
     # pricing table loop
