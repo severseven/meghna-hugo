@@ -3,16 +3,32 @@ title: "Simple Blog Post"
 date: 2018-09-12T12:52:36+06:00
 image_webp: images/blog/blog-post-1.webp
 image: images/blog/blog-post-1.jpg
-author: John Doe
+author:
 description : "This is meta description"
 ---
 
-Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae. Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
+#### Progettiamo e sviluppiamo strumenti informatici innovativi ad alto contenuto tecnologico: servizi di gestione software e architetture informatiche per esigenze specifiche.
 
-Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
+> A dimostrazione di una comprovata esperienza, cooperiamo con diversi enti locali e nazionali.
 
-> Design is not just what it looks like and feels like. Design is how it works.
+### 1. Sviluppo software
+ 
+> Progettazione e sviluppo di software customizzato, lavorando a stretto contatto con il cliente per soddisfare in modo diretto e immediato ogni specifica esigenza.
+>
+> Creazione e implementazione di applicazioni orientate al web in risposta alle ultime tendenze del mercato.
+>
+> Creazione di siti e portali web.
+>
+> Strumenti informatici innovativi ad alto contenuto tecnologico.
 
-Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
+### 2. Gestione del software
+ 
+> Gestione di applicativi specificamente approvati da enti pubblici per la gestione di beni mobili o per la gestione integrata della contabilità economico-finanziaria.
 
-Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
+### 3. Sicurezza
+
+> Valutazione di possibili minacce, test di penetrazione, protezione di dati sensibili, backup e disaster recovery, sicurezza dei dispositivi.
+
+### 4. Servizio di assistenza
+
+> Pacchetti di assistenza tecnica specializzata, hardware e software, gestione e manutenzione di server di rete, postazioni di lavoro.
