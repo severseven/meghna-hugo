@@ -5,22 +5,106 @@ testimonial:
   bg_image_webp : images/backgrounds/bg-testimonial.webp
   testimonial_item :
     # testimonial item loop
-    - name : Jonathon Andrew
-      image : images/client/client-1.jpg
-      image_webp : images/client/client-1.webp
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+    - name : Biblioteca Universitaria Alessandrina
+      image : images/client/alessandrina.jpg
+      image_webp : images/client/alessandrina.webp
+      date : Dec 01, 2022
+      content : Vai a [Biblioteca Alessandrina](https://alessandrina.librari.beniculturali.it/)
       
     # testimonial item loop
-    - name : Mark Dinn
-      image : images/client/client-2.jpg
-      image_webp : images/client/client-2.webp
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+    - name : Biblioteca Vallicelliana
+      image : images/client/vallicelliana.jpg
+      image_webp : images/client/vallicelliana.webp
+      date : Dec 01, 2022
+      content : Vai a [Biblioteca Vallicelliana](http://www.vallicelliana.it/)
       
     # testimonial item loop
-    - name : Lemos Kail
-      image : images/client/client-1.jpg
-      image_webp : images/client/client-1.webp
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+    - name : Archivio Centrale dello Stato
+      image : images/client/acs.jpg
+      image_webp : images/client/acs.webp
+      date : Dec 01, 2022
+      content : Vai a [ACS](https://www.acs.beniculturali.it/)
+      
+    # testimonial item loop
+    - name : Museo Nazionale Romano
+      image : images/client/museo-nazionale-romano.jpg
+      image_webp : images/client/museo-nazionale-romano.webp
+      date : Dec 01, 2022
+      content : Vai a [Museo Nazionale Romano](https://museonazionaleromano.beniculturali.it/)
+      
+     # testimonial item loop
+    - name : Parco Archeologico del Colosseo
+      image : images/client/parco-archeologico-colosseo.jpg
+      image_webp : images/client/parco-archeologico-colosseo.webp
+      date : Dec 01, 2022
+      content : Vai a [Parco Archeologico del Colosseo](https://parcocolosseo.it/)
+      
+    # testimonial item loop
+    - name : Galleria Nazionale Barberini Corsini
+      image : images/client/gallerie-nazionali-barberini-corsini.jpg
+      image_webp : images/client/gallerie-nazionali-barberini-corsini.webp
+      date : Dec 01, 2022
+      content : Vai a [Galleria Nazionale Barberini Corsini](https://www.barberinicorsini.org/)
+      
+    # testimonial item loop
+    - name : Biblioteca Nazionale Centrale di Roma
+      image : images/client/bncr.jpg
+      image_webp : images/client/bncr.webp
+      date : Dec 01, 2022
+      content : Vai a [BNCR](http://www.bncrm.beniculturali.it/)
+      
+    # testimonial item loop
+    - name : Giunta Centrale per gli Studi Storici
+      image : images/client/client/gcss.jpg
+      image_webp : images/client/gcss.webp
+      date : Dec 01, 2022
+      content : Vai a [GCSS](https://www.gcss.it/)
+      
+    # testimonial item loop
+    - name : Centro per il Libro e la Lettura
+      image : images/client/cepell.jpg
+      image_webp : images/client/cepell.webp
+      date : Dec 01, 2022
+      content : Vai a [CEPELL](https://cepell.it/)
+      
+     # testimonial item loop
+    - name : Istituto Centrale per la Grafica
+      image : images/client/icg.jpg
+      image_webp : images/client/icg.webp
+      date : Dec 01, 2022
+      content : Vai a [ICG](https://www.grafica.beniculturali.it/)
+      
+    # testimonial item loop
+    - name : Istituto Centrale per la Patologia degli Archivi e del Libro
+      image : images/client/icpal.jpg
+      image_webp : images/client/icpal.webp
+      date : Dec 01, 2022
+      content : Vai a [ICPAL](https://icpal.beniculturali.it/)
+    
+    # testimonial item loop
+    - name : Ministero del Turismo
+      image : images/client/ministero-turismo.jpg
+      image_webp : images/client/ministero-turismo.webp
+      date : Dec 01, 2022
+      content : Vai a [Ministero Turismo](https://www.ministeroturismo.gov.it/)
+      
+    # testimonial item loop
+    - name : Ministero dell'Interno
+      image : images/client/ministero-interno.jpg
+      image_webp : images/client/ministero-interno.webp
+      date : Dec 01, 2022
+      content : Vai a [Ministero Interno](https://www.interno.gov.it/it)
+      
+    # testimonial item loop
+    - name : Ministero della Giustizia
+      image : images/client/ministero-giustizia.jpg
+      image_webp : images/client/ministero-giustizia.webp
+      date : Dec 01, 2022
+      content : Vai a [Ministero Giustizia](https://www.giustizia.it/giustizia/)
+      
+    # testimonial item loop
+    - name : Ministero della Cultura
+      image : images/client/mic.jpg
+      image_webp : images/client/mic.webp
+      date : Dec 01, 2022
+      content : Vai a [Ministero Cultura](https://www.beniculturali.it/)
