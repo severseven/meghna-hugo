@@ -1,7 +1,7 @@
 ##################################### pricing ##############################
 pricing:
   enable : true
-  title : Our Customers
+  title : Client Customers
   pricing_table :
     # pricing table loop
     - name : Free
