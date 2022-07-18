@@ -7,5 +7,5 @@ cta:
   content : "A proactive approach to providing information, tools, and services"
   button:
     enable : true
-    label : "Ready for the future"
+    label : "Contact Us"
     link : "#contact"
