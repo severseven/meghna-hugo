@@ -4,8 +4,8 @@ banner:
   bg_image_webp : "images/backgrounds/hero-area.webp"
   bg_image : "images/backgrounds/hero-area.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "Experience the new reality"
-  content : "Esperienza, professionalità, qualità e velocità dei servizi ci contraddistinguono. Le carte vincenti su cui puntiamo"
+  title : "ClientSide: Esperienza e Qualità dei servizi"
+  content : "L'innovazione è una priorità in un mondo digitale in continua evoluzione!"
   button:
     enable : true
     label : "Explore Us"
