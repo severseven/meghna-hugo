@@ -1,7 +1,7 @@
 ##################################### pricing ##############################
 pricing:
   enable : true
-  title : Our Plans
+  title : Our Customers
   pricing_table :
     # pricing table loop
     - name : Free
