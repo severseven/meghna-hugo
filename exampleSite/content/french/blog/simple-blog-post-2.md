@@ -1,6 +1,6 @@
 ---
 title: "Eredità culturale"
-date:
+date: 2022-01-02T12:52:36+06:00
 image_webp: images/blog/blog-post-3.webp
 image: images/blog/blog-post-3.jpg
 author:
