@@ -5,7 +5,7 @@ banner:
   bg_image : "images/backgrounds/hero-area.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : "ClienSide: Experience and Quality of Services"
-  content : "Innovation is a priority in a digital world in perpetual evolution!"
+  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi. At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!"
     button:
     enable : true
     label : "Explore Us"
