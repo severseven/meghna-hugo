@@ -4,7 +4,7 @@ banner:
   bg_image_webp : "images/backgrounds/hero-area.webp"
   bg_image : "images/backgrounds/hero-area.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "ClientSide: Information Technology in Art"
+  title : "Experience the new reality"
   content : "Experience, professionalism, quality and speed of services distinguish us. The winning cards on which we bet"
     enable : true
     label : "Explore Us"
