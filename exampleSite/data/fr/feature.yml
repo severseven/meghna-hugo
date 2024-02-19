@@ -3,8 +3,8 @@ feature:
   enable : true
   image : images/about/about-business-man.jpg
   image_webp : images/about/about-business-man.webp
-  title : Tecnologia e innovazione al servizio della cultura
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
+  title : Tecnologia e innovazione al servizio della cultura.
+  content : "Offriamo competenze specialistiche nell'ambito dei servizi IT per fornire al cliente soluzioni che massimalizzino il potenziale delle loro risorse."
   feature_item : 
       # feature item loop
     - title : SEO Optimized
